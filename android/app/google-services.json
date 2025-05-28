@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257520399978",
+    "project_id": "worldscan-a53c3",
+    "storage_bucket": "worldscan-a53c3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257520399978:android:93864387678d996b19fc13",
+        "android_client_info": {
+          "package_name": "com.example.world_scan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwpgn3OhCTajzbajOs7ZlWrsNGi1TKxM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
